@@ -4,9 +4,9 @@
         <attribute name="name" value="X02"/>
         <attribute name="authors" value="USER"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-12-04 03:53:23 PM"/>
+        <attribute name="saved" value="2024-12-04 04:03:16 PM"/>
         <attribute name="created" value="VVNFUjtMQVBUT1AtQjc2M09HUTY7MjAyNC0xMi0wNDswMzozMToyMSBQTTsyNjA4"/>
-        <attribute name="edited" value="VVNFUjtMQVBUT1AtQjc2M09HUTY7MjAyNC0xMi0wNDswMzo1MzoyMyBQTTsyOzI3MjM="/>
+        <attribute name="edited" value="VVNFUjtMQVBUT1AtQjc2M09HUTY7MjAyNC0xMi0wNDswNDowMzoxNiBQTTszOzI3MjI="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -16,7 +16,7 @@
             <call expression="fungsi2(nama)"/>
         </body>
     </function>
-    <function name="Fungsi1" type="None" variable="">
+    <function name="fungsi1" type="None" variable="">
         <parameters>
             <parameter name="nama" type="String" array="True"/>
         </parameters>
